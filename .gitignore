@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker
+.docker/
+
+# Screenshots (populate locally, don't commit placeholders)
+screenshots/*.png
+screenshots/*.jpg
+screenshots/*.gif
+screenshots/*.webp
+!screenshots/.gitkeep
